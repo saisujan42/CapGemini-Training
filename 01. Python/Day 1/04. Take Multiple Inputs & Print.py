@@ -1,0 +1,5 @@
+address = input("Enter Address: ")
+city = input("Enter City: ")
+state = input("Enter State: ")
+pincode = int(input("Enter PinCode: "))
+print(f"Your Address Is: {address}, {city}, {state}, {pincode}")
